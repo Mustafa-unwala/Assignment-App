@@ -53,11 +53,7 @@ Contributing
 Contributions are welcome! If you'd like to contribute to the User Location App, please fork the repository and create a pull request with your changes.
 
 Acknowledgements
-
 Google Maps SDK for Android - For displaying maps and fetching location.
-
 Retrofit - For making API calls and handling network requests.
-
 Gson - For parsing JSON data received from API responses.
-
 Android Developer Documentation - For reference and guidance on Android development.
